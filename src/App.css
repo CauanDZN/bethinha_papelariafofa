@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Gloria Hallelujah', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+.App {
+  text-align: center;
+}
+
